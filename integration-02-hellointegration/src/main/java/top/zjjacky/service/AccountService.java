@@ -10,5 +10,9 @@ public interface AccountService {
 
     int addAccount(Account account);
 
+    int updateAccount(Account account);
+
+    int deleteAccountById(int id);
+
     List<Account> findAllAccount();
 }

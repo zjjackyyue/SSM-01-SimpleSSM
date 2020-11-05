@@ -20,7 +20,10 @@
         <fileset id="web demo servlet context" name="MVC demo servlet context" removed="true">
           <file>file://$MODULE_DIR$/src/main/resources/springMVC.xml</file>
         </fileset>
-        <fileset id="fileset" name="Spring Application Context" removed="false">
+        <fileset id="web application context" name="MVC application context" removed="true">
+          <file>file://$MODULE_DIR$/src/main/resources/applicationContext.xml</file>
+        </fileset>
+        <fileset id="fileset2" name="Spring Application Context (2)" removed="false">
           <file>file://$MODULE_DIR$/src/main/resources/applicationContext.xml</file>
           <file>file://$MODULE_DIR$/src/main/resources/springMVC.xml</file>
         </fileset>

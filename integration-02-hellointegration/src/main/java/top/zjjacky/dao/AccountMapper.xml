@@ -5,4 +5,15 @@
         INSERT INTO demo_ssm.account (id, name, money)
         VALUES (#{id},#{name},#{money})
     </insert>
+
+    <update id="updateAccount" parameterType="top.zjjacky.domain.Account">
+        UPDATE demo_ssm.account
+        SET id = #{id}, name = #{name}, money = #{money}
+        WHERE id = #{id}
+    </update>
+
+    <delete id="deleteAccountById" parameterType="int">
+        DELETE FROM demo_ssm.account
+        WHERE id = #{id}
+    </delete>
 </mapper>

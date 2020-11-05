@@ -14,12 +14,28 @@ public class AccountServiceImpl implements AccountService {
     @Autowired
     private AccountMapper accountMapper;
 
+    //新增一个账户
     @Override
     public int addAccount(Account account) {
         int i = accountMapper.addAccount(account);
         return i;
     }
 
+    //修改一个账户
+    @Override
+    public int updateAccount(Account account) {
+        int i = accountMapper.updateAccount(account);
+        return i;
+    }
+
+    //删除一个账户
+    @Override
+    public int deleteAccountById(int id) {
+        int i = accountMapper.deleteAccountById(id);
+        return i;
+    }
+
+    //查询所有账户
     @Override
     public List<Account> findAllAccount() {
         List<Account> allAccount = accountMapper.findAllAccount();

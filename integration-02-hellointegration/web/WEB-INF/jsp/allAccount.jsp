@@ -1,11 +1,4 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<%--
-  Created by IntelliJ IDEA.
-  User: Administrator
-  Date: 2020/11/4
-  Time: 3:10
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
@@ -20,14 +13,20 @@
 <body>
 <div class="container">
     <div class="row clearfix">
-        <div class="col-md-12 column"></div>
+        <div class="col-md-12 column">
             <div class="page-header">
                 <h1>
-                    <small>数据列表——显示所有书籍</small>
+                    <small>数据列表——显示所有账户</small>
                 </h1>
             </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 column">
+                <a class="btn btn-primary" href="${pageContext.request.contextPath}/account/toAddPaper">新增账户</a>
+            </div>
+        </div>
     </div>
-
+    <%--查询账户--%>
     <div class="row clearfix">
         <div class="col-md-12 column">
             <table class="table table-hover table-striped">
@@ -36,6 +35,7 @@
                         <th>id</th>
                         <th>name</th>
                         <th>money</th>
+                        <th>操作</th>
                     </tr>
                 </thread>
 
@@ -45,6 +45,10 @@
                             <td>${account.id}</td>
                             <td>${account.name}</td>
                             <td>${account.money}</td>
+                            <td>
+                                <a href="${pageContext.request.contextPath}/account/toUpdatePaper?id=${account.id}&name=${account.name}&money=${account.money}">修改</a>&nbsp; | &nbsp;
+                                <a href="${pageContext.request.contextPath}/account/deleteAccountById?id=${account.id}">删除</a>
+                            </td>
                         </tr>
                     </c:forEach>
                 </tbody>

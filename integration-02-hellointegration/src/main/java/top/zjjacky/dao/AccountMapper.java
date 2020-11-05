@@ -10,11 +10,11 @@ public interface AccountMapper {
 
     int addAccount(Account account);
 
-    //int deleteAccountById(int id);
-    //
-    //int updateAccount(Account account);
-    //
-    //Account findAccountById(int id);
+    int deleteAccountById(int id);
+
+    int updateAccount(Account account);
+
+    Account findAccountById(int id);
 
     @Select("select * from account")
     List<Account> findAllAccount();
