@@ -1,7 +1,14 @@
 package top.zjjacky.service;
 
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
+import top.zjjacky.domain.Account;
 
-@Component
+import java.util.List;
+
+@Service
 public interface AccountService {
+
+    int addAccount(Account account);
+
+    List<Account> findAllAccount();
 }

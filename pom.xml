@@ -9,7 +9,6 @@
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>integration-01-hellointegration</module>
         <module>integration-02-hellointegration</module>
     </modules>
 

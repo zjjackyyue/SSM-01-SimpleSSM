@@ -3,7 +3,7 @@ import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
-import top.zjjacky.dao.AccountDao;
+import top.zjjacky.dao.AccountMapper;
 import top.zjjacky.domain.Account;
 
 import java.util.List;
@@ -13,11 +13,11 @@ import java.util.List;
 public class SpringTest {
 
     @Autowired
-    private AccountDao accountDao;
+    private AccountMapper accountMapper;
 
     @Test
     public void testSpring1() {
-        List<Account> accounts = accountDao.findAllAccount();
+        List<Account> accounts = accountMapper.findAllAccount();
         for (Account account : accounts) {
             System.out.println(account);
         }

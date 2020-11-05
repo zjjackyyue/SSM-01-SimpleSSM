@@ -6,6 +6,7 @@
     <!--配置Spring-->
     <!--    配置扫描-->
     <context:component-scan base-package="top.zjjacky">
+        <!--这样扫描只会扫描base-package下不带有@Controller的java类-->
         <context:exclude-filter type="annotation" expression="org.springframework.stereotype.Controller"/>
     </context:component-scan>
 
@@ -20,9 +21,10 @@
     <!--    配置SqlSession的工厂-->
     <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
         <property name="dataSource" ref="dataSource"/>
+        <property name="mapperLocations" value="classpath:top/zjjacky/dao/AccountMapper.xml"/>
     </bean>
 
-    <!--  配置扫描的包  -->
+    <!--  配置扫描  -->
     <bean id="mapperScanner" class="org.mybatis.spring.mapper.MapperScannerConfigurer">
         <property name="basePackage" value="top.zjjacky.dao"/>
     </bean>
