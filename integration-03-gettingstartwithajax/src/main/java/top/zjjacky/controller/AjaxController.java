@@ -20,8 +20,13 @@ public class AjaxController {
     }
 
     @RequestMapping("/t2")
-    public String test() {
+    public String test2() {
         return "hello2";
+    }
+
+    @RequestMapping("/t3")
+    public String test3() {
+        return "login";
     }
 
     @RequestMapping("/a1")
@@ -32,6 +37,29 @@ public class AjaxController {
         } else {
             response.getWriter().print("false");
         }
+    }
+
+    @RequestMapping("/a3")
+    @ResponseBody
+    public String a3(String name,String password) {
+        String msg = "";
+        if (name != null) {
+            //像"admin"这样的数据本应在数据库中查出来，现在为了演示直接写死为admin
+            if ("admin".equals((name))) {
+                msg = "ok";
+            } else {
+                msg = "用户名有误";
+            }
+        }
+        if (password != null) {
+            //像"admin"这样的数据本应在数据库中查出来，现在为了演示直接写死为admin
+            if ("123456".equals((password))) {
+                msg = "ok";
+            } else {
+                msg = "密码输入有误";
+            }
+        }
+        return msg;
     }
 
     //给前端返回数据
