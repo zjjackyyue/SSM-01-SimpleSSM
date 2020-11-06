@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SSMTest8Integration" />
         <module name="integration02hellointegration" />
+        <module name="integration03gettingstartwithajax" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

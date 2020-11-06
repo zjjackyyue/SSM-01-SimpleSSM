@@ -2,76 +2,36 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="integration02hellointegration:war exploded" />
+      <artifact name="integration03gettingstartwithajax:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98108a2c-e7ee-4a9a-9947-a3945d336e87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/artifacts/integration_02_hellointegration_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/artifacts/integration_02_hellointegration_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_0_rc1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_0_rc1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_0_rc1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_springframework_spring_aop_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_springframework_spring_beans_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_springframework_spring_context_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_springframework_spring_test_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_springframework_spring_tx_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_springframework_spring_web_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/integration-02-hellointegration.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/filter/EncodingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/addAccount.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/updateAccount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/integration03gettingstartwithajax_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-03-gettingstartwithajax/integration03gettingstartwithajax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-03-gettingstartwithajax/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/java/top/zjjacky/controller/AjaxController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/java/top/zjjacky/filter/EncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/java/top/zjjacky/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/resources/springMVC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-03-gettingstartwithajax/web/WEB-INF/jsp/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-03-gettingstartwithajax/web/WEB-INF/jsp/hello2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-03-gettingstartwithajax/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_ssm.sql" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/integration02hellointegration.iml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/integration02hellointegration.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/controller/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/dao/AccountMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/dao/AccountMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/dao/AccountMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/dao/AccountMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/service/AccountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/classes/top/zjjacky/controller/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/target/classes/top/zjjacky/controller/AccountController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/classes/top/zjjacky/dao/AccountMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/target/classes/top/zjjacky/dao/AccountMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/classes/top/zjjacky/dao/AccountMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/target/classes/top/zjjacky/dao/AccountMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/classes/top/zjjacky/service/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/target/classes/top/zjjacky/service/AccountService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/classes/top/zjjacky/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/target/classes/top/zjjacky/service/impl/AccountServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/classes/top/zjjacky/controller/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/classes/top/zjjacky/controller/AccountController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/classes/top/zjjacky/dao/AccountMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/classes/top/zjjacky/dao/AccountMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/classes/top/zjjacky/dao/AccountMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/classes/top/zjjacky/dao/AccountMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/classes/top/zjjacky/service/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/classes/top/zjjacky/service/AccountService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/classes/top/zjjacky/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/classes/top/zjjacky/service/impl/AccountServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/jsp/sucess.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/target/demo/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/sucess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/allAccount.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/springMVC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/springMVC.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/top.zjjacky.SSMTest8Integration-1.0-SNAPSHOT/WEB-INF/classes/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/top.zjjacky.SSMTest8Integration-1.0-SNAPSHOT/WEB-INF/jsp/sucess.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/top.zjjacky.SSMTest8Integration-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/top.zjjacky.SSMTest8Integration-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -79,6 +39,7 @@
     <ignored path="$PROJECT_DIR$/dwas/target/" />
     <ignored path="$PROJECT_DIR$/integration-01-hellointegration/integration=02-hellointegration/target/" />
     <ignored path="$PROJECT_DIR$/integration-02-hellointegration/target/" />
+    <ignored path="$PROJECT_DIR$/integration-03-gettingstartwithajax/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,109 +66,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/service/impl/AccountServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/java/top/zjjacky/controller/AjaxController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            <state relative-caret-position="689">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/allAccount.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="49" column="117" selection-start-line="49" selection-start-column="117" selection-end-line="49" selection-end-column="117" />
-              <folding>
-                <element signature="e#1806#1812#0#HTML" expanded="true" />
-                <element signature="e#1809#1815#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/service/AccountService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/springMVC.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/dao/AccountMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/controller/AccountController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="45" column="45" lean-forward="true" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1129#1130#0" expanded="true" />
-                <element signature="e#1164#1165#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/addAccount.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/updateAccount.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/dao/AccountMapper.xml">
+        <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/web/WEB-INF/jsp/hello.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="416">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/resources/springMVC.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/web/WEB-INF/jsp/hello2.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="17" column="59" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/java/top/zjjacky/pojo/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#621#622#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -218,6 +146,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
         <option value="Jsp File" />
       </list>
@@ -226,7 +155,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>junit</find>
-      <find>log</find>
       <find>jar</find>
       <find>oacjaging</find>
       <find>war</find>
@@ -242,6 +170,8 @@
       <find>list</find>
       <find>liste</find>
       <find>asp</find>
+      <find>log4j</find>
+      <find>log</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -270,22 +200,38 @@
         <option value="$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/integration-02-hellointegration/pom.xml" />
         <option value="$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/AccountMapper.xml" />
-        <option value="$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/springMVC.xml" />
         <option value="$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/classes/logging.properties" />
         <option value="$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/sucess.jsp" />
         <option value="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/dao/AccountMapper.java" />
         <option value="$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/updateAccount.jsp" />
         <option value="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/filter/EncodingFilter.java" />
-        <option value="$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/addAccount.jsp" />
         <option value="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/service/AccountService.java" />
         <option value="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/service/impl/AccountServiceImpl.java" />
         <option value="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/controller/AccountController.java" />
         <option value="$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/allAccount.jsp" />
         <option value="$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/dao/AccountMapper.xml" />
+        <option value="$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/springMVC.xml" />
+        <option value="$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/integration-03-gettingstartwithajax/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/resources/Spring.xml.fxml" />
+        <option value="$PROJECT_DIR$/integration-03-gettingstartwithajax/pom.xml" />
+        <option value="$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/resources/springMVC.xml" />
+        <option value="$PROJECT_DIR$/integration-03-gettingstartwithajax/web/index.jsp" />
+        <option value="$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/java/top/zjjacky/pojo/User.java" />
+        <option value="$PROJECT_DIR$/integration-03-gettingstartwithajax/web/WEB-INF/jsp/hello.jsp" />
+        <option value="$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/java/top/zjjacky/controller/AjaxController.java" />
+        <option value="$PROJECT_DIR$/integration-03-gettingstartwithajax/web/WEB-INF/jsp/hello2.jsp" />
       </list>
     </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -310,7 +256,12 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -328,7 +279,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -339,25 +289,25 @@
             <path>
               <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -365,7 +315,7 @@
             <path>
               <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -374,7 +324,7 @@
             <path>
               <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -384,7 +334,7 @@
             <path>
               <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -395,52 +345,18 @@
             <path>
               <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="top" type="462c0819:PsiDirectoryNode" />
               <item name="zjjacky" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-              <item name="zjjacky" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-              <item name="zjjacky" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-              <item name="zjjacky" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -448,20 +364,35 @@
             <path>
               <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="statics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="statics" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SSMTest8Integration" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSMTest8Integration" type="462c0819:PsiDirectoryNode" />
-              <item name="integration-02-hellointegration" type="462c0819:PsiDirectoryNode" />
+              <item name="integration-03-gettingstartwithajax" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="jsp" type="462c0819:PsiDirectoryNode" />
@@ -470,35 +401,39 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="E:/zjjackyFiles/找工作/面试题/1-3k广州市宇盟展览服务有限公司/HuiMaoWang(3)/HuiMaoWang/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="spring" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Programming software\Back-endProject\IdeaProject\SSMTest8Integration\integration-03-gettingstartwithajax\web\statics\js" />
+      <recent name="E:\Programming software\Back-endProject\IdeaProject\SSMTest8Integration\integration-03-gettingstartwithajax\web\statics" />
       <recent name="E:\Programming software\Back-endProject\IdeaProject\SSMTest8Integration\integration-02-hellointegration\src\main\resources" />
       <recent name="E:\Programming software\Back-endProject\IdeaProject\SSMTest8Integration\integration-02-hellointegration\target\classes" />
-      <recent name="E:\Programming software\Back-endProject\IdeaProject\SSMTest8Integration\integration-02-hellointegration\web\WEB-INF\classes" />
-      <recent name="E:\Programming software\Back-endProject\IdeaProject\SSMTest8Integration\integration-02-hellointegration\src\main\java" />
-      <recent name="E:\Programming software\Back-endProject\IdeaProject\SSMTest8Integration\integration-01-hellointegration\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="top.zjjacky.filter" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Programming software\Back-endProject\IdeaProject\SSMTest8Integration\integration-03-gettingstartwithajax\src\main\resources" />
+      <recent name="E:\Programming software\Back-endProject\IdeaProject\SSMTest8Integration\integration-03-gettingstartwithajax\web\WEB-INF" />
+      <recent name="E:\Programming software\Back-endProject\IdeaProject\SSMTest8Integration\integration-03-gettingstartwithajax\web" />
       <recent name="E:\Programming software\Back-endProject\IdeaProject\SSMTest8Integration\integration-02-hellointegration\src\main\resources" />
       <recent name="E:\Programming software\Back-endProject\IdeaProject\SSMTest8Integration\integration-02-hellointegration\target\classes" />
     </key>
@@ -539,9 +474,9 @@
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="integration02hellointegration:war exploded">
+        <artifact name="integration03gettingstartwithajax:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/02" />
+            <option name="CONTEXT_PATH" value="/03" />
           </settings>
         </artifact>
       </deployment>
@@ -604,7 +539,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="integration02hellointegration:war exploded" />
+          <artifact name="integration03gettingstartwithajax:war exploded" />
         </option>
       </method>
     </configuration>
@@ -631,7 +566,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604393470256</updated>
       <workItem from="1604393472670" duration="45914000" />
-      <workItem from="1604553113770" duration="20279000" />
+      <workItem from="1604553113770" duration="22577000" />
+      <workItem from="1604636661010" duration="18817000" />
     </task>
     <servers />
   </component>
@@ -668,7 +604,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66193000" />
+    <option name="totallyTimeSpent" value="87308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1307" y="144" width="1310" height="1003" extended-state="0" />
@@ -680,7 +616,7 @@
       <window_info id="Image Layers" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49945474" visible="true" weight="0.2632" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49945474" visible="true" weight="0.2672" />
       <window_info id="Structure" order="7" sideWeight="0.50054526" side_tool="true" weight="0.24961479" />
       <window_info anchor="bottom" id="Application Servers" order="0" weight="0.32911393" />
       <window_info anchor="bottom" id="Database Console" order="1" weight="0.3293348" />
@@ -693,7 +629,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32911393" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.46260068" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49922958" visible="true" weight="0.39470655" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49922958" weight="0.3118527" />
       <window_info anchor="bottom" id="Find" order="12" weight="0.32911393" />
       <window_info anchor="bottom" id="Debug" order="13" weight="0.39847162" />
       <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
@@ -704,7 +640,7 @@
       <window_info anchor="right" id="Database" order="2" weight="0.24776785" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.32973805" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3296" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
@@ -714,42 +650,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/integration-01-hellointegration/src/main/java/top/zjjacky/domain/Account.java" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3c304298-3546-4c94-9319-7d52eb59787a/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://f6cf92bd-4ae9-46a4-8e0f-55c66b292763/collation/armscii8_bin" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f6cf92bd-4ae9-46a4-8e0f-55c66b292763/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://3dbd0b27-7332-45c9-9842-a57c981805d1/schema/eesy_mybatis/table/blog" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3dbd0b27-7332-45c9-9842-a57c981805d1/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b92798e5-5cfb-495b-a393-f827ac48a25a/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/SqlSessionFactoryBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integration-01-hellointegration/src/main/resources/mybatis-config.xml" />
-    <entry file="file://$PROJECT_DIR$/dwas/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/integration-01-hellointegration/src/main/resources/spring-dao.xml" />
-    <entry file="file://$PROJECT_DIR$/integration-01-hellointegration/integration=02-hellointegration/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/integration-01-hellointegration/src/main/java/top/zjjacky/dao/AccountDao.java" />
-    <entry file="file://$PROJECT_DIR$/integration-01-hellointegration/src/main/resources/springmvc-servlet.xml" />
-    <entry file="file://$PROJECT_DIR$/integration-01-hellointegration/pom.xml" />
     <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/target/test-classes/SpringTest.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-156" />
@@ -828,20 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/domain/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -853,48 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/springMVC.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/updateAccount.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/addAccount.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
         </state>
       </provider>
     </entry>
@@ -918,29 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/allAccount.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="49" column="117" selection-start-line="49" selection-start-column="117" selection-end-line="49" selection-end-column="117" />
-          <folding>
-            <element signature="e#1806#1812#0#HTML" expanded="true" />
-            <element signature="e#1809#1815#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/controller/AccountController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="45" column="45" lean-forward="true" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-            <element signature="e#1164#1165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/dao/AccountMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -951,10 +772,212 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/allAccount.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="49" column="88" selection-start-line="49" selection-start-column="88" selection-end-line="49" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/updateAccount.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/controller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/jsp/addAccount.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/java/top/zjjacky/dao/AccountMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="364">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/resources/Spring.xml.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/springMVC.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="226" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-02-hellointegration/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/java/top/zjjacky/filter/EncodingFilter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/web/classes/logging.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/web/WEB-INF/classes/logging.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/web/test.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_ssm.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt://E:/JDK!/jdk.javadoc/com/sun/tools/doclets/internal/toolkit/resources/jquery/jquery-1.10.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="8272" column="55" lean-forward="true" selection-start-line="8272" selection-start-column="55" selection-end-line="8272" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/resources/springMVC.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/java/top/zjjacky/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/web/WEB-INF/jsp/hello2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/src/main/java/top/zjjacky/controller/AjaxController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-03-gettingstartwithajax/web/WEB-INF/jsp/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1011,7 +1034,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|integration02hellointegration</last-edited>
+          <last-edited>Spring|integration03gettingstartwithajax</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
