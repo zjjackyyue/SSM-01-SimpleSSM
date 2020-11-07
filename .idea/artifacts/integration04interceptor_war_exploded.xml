@@ -1,17 +1,17 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="SSMTest8Integration:war exploded">
-    <output-path>$PROJECT_DIR$/target/demo</output-path>
+  <artifact type="exploded-war" name="integration04interceptor:war exploded">
+    <output-path>$PROJECT_DIR$/integration-04-interceptor/target/demo</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
-        <module>SSMTest8Integration</module>
+        <module>integration04interceptor</module>
         <packaging>war</packaging>
       </options>
     </properties>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="SSMTest8Integration" />
+          <element id="module-output" name="integration04interceptor" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.6.8" />
@@ -44,9 +44,9 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/target/demo/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/integration-04-interceptor/target/demo/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="SSMTest8Integration/web/Web" />
+      <element id="javaee-facet-resources" facet="integration04interceptor/web/Web" />
     </root>
   </artifact>
 </component>

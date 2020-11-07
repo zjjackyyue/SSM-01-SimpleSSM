@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="integration02hellointegration" />
         <module name="integration03gettingstartwithajax" />
+        <module name="integration04interceptor" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

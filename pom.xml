@@ -11,6 +11,7 @@
     <modules>
         <module>integration-02-hellointegration</module>
         <module>integration-03-gettingstartwithajax</module>
+        <module>integration-04-interceptor</module>
     </modules>
 
 </project>
